@@ -1,7 +1,7 @@
-# test1
+# README
 
-This repo is to demo some of the features of Git and GitHub
+## This repo is to demo some of the features of Git and GitHub
 
-Needs more info in here!
+## Needs more info in here!
 
-more code!
+## more code!
